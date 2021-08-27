@@ -8,6 +8,6 @@ namespace TruckerTracking
 {
     class LocationKey
     {
-        public static string Key { get; } = @"pk.39502f058cc1be71d82e4979b91bc18f";
+        public static string Key { get; } = @"You're key";
     }
 }
